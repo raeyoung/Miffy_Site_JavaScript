@@ -43,10 +43,10 @@ a {
     padding-left: 0;
 }
 .navbar_icons li {
-    padding: 8px 12px;
+    padding: 8px;
 }
 
-.navbar_toogleBtn {
+.navbar_toggleBtn {
     display: none;
     position: absolute;
     right: 32px;
@@ -74,7 +74,7 @@ a {
         justify-content: center;
         width: 100%;
     }
-    .navbar_toogleBtn {
+    .navbar_toggleBtn {
         display: block;
     }
     .navbar_menu.active,
